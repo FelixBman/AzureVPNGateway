@@ -1,7 +1,7 @@
 ########################Variables#####################################
 ## !!!!!!!!   start with "az login"
 
-$RG=                ""      #define RessourceGroup Name
+$RG=                ""      #define ResourceGroup Name
 $VNET=              ""        #define vnet name
 $LOCATION=          "germanywestcentral"  #SHOW Location list: az account list-locations --output table   /
 
