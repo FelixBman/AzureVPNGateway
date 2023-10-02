@@ -8,5 +8,6 @@ You would have to define:
 3. Location
 4. adjust you Vnet Prefix as well as the subnets (Bastion is optional)
 5. Remote GW IP (e.g. Prisma Service Connection)
-6. PSK
-7. The User which will be user in tagging
+6. Local Addresses
+7. PSK
+8. The User which will be user in tagging
