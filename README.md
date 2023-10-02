@@ -10,4 +10,4 @@ You would have to define:
 5. Remote GW IP (e.g. Prisma Service Connection)
 6. Local Addresses
 7. PSK
-8. The User which will be user in tagging
+8. The User which will be used in tagging
