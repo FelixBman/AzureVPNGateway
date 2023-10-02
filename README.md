@@ -1,4 +1,4 @@
-# azureVPNGateway
+# AzureVPNGateway
 Sets up an Azure VPN Gateway incl vNet, Subnets, as well as a vpn connection. 
 There are also a few tags included.
 
