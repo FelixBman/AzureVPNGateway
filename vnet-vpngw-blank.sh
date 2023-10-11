@@ -20,7 +20,7 @@ $USER=              "x@networks.com"  #definte the user which will be used in th
 ##########################Skript#########################################
 
 $NDC=                  "no-delete-contact=$USER"
-$NSC=                  "no-shut-contactt=$USER"
+$NSC=                  "no-shut-contact=$USER"
 $TAGS=               @('provisioningState=DND','RunStatus=NOSTOP' ,$NSC, $NDC)
       
 
